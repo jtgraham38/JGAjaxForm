@@ -49,4 +49,4 @@ function handler(event, response){
 The handler is defined identically on a form that uses the *jg_ajax_post* method.
 
 
-** NOTE: if you use this script in tandem with either JG Honeypot Form or JG Stripe Form, I highly recommend using this script to initialize all event listeners: https://github.com/jtgraham38/JGJS_Synchronizer **
+**NOTE: if you use this script in tandem with either JG Honeypot Form or JG Stripe Form, I highly recommend using this script to initialize all event listeners: https://github.com/jtgraham38/JGJS_Synchronizer**
