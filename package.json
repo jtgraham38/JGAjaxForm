@@ -1,0 +1,24 @@
+{
+  "name": "jg_ajax_form",
+  "version": "1.0.0",
+  "description": "A utility script that makes it easy to build ajax-submitted forms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtgraham38/JGAjaxForm.git"
+  },
+  "keywords": [
+    "ajax",
+    "form",
+    "http"
+  ],
+  "author": "Jacob Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtgraham38/JGAjaxForm/issues"
+  },
+  "homepage": "https://github.com/jtgraham38/JGAjaxForm#readme"
+}
